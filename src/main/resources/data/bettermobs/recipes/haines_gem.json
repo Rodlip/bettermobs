@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bettermobs:haines_block"
+    }
+  ],
+  "result": {
+    "item": "bettermobs:haines_gem",
+    "count": 9
+  }
+}
